@@ -4,5 +4,4 @@ This page is dedicated to lay out a model I derived to simulate organic electroc
 ## Tensor Model
 
 - [Introduction](introduction.md)
--...
 - [How to Contribute](contribute.md)
