@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-minimal
+layout: page
 title: About the Tensor Model
 permalink: /introduction/
 ---
